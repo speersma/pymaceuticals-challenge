@@ -1,6 +1,6 @@
 # pymaceuticals-challenge
 
-This repository contains one folder. Inside the folder are one jupyter notebook and one markdown file. The markdown file details the instructions for this challenge assignment. The jupyter notebook contains analyses and visualization of a dataset of mice in a study of squamous cell carcinoma treatment. That notebook has a top level summary at the beginning of the file. Details about the study and that summary has been reproduced here for ease of access. 
+This repository contains one folder. Inside the folder are one jupyter notebook, one markdown file, and a folder containing the data used in this analysis. The markdown file details the instructions for this challenge assignment. The jupyter notebook contains analyses and visualization of a dataset of mice in a study of squamous cell carcinoma treatment. That notebook has a top level summary at the beginning of the file. Details about the study and that summary has been reproduced here for ease of access. 
 
 # Pymaceuticals Analysis
 
